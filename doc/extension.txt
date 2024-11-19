@@ -1,0 +1,16 @@
+*extension.txt*  Your CoffeeScript Vim Extension Documentation
+
+==============================================================================
+INTRODUCTION                                    *extension-intro*
+
+This is a Vim extension written in CoffeeScript.
+
+==============================================================================
+USAGE                                           *extension-usage*
+
+Add usage instructions here.
+
+==============================================================================
+LICENSE                                         *extension-license*
+
+MIT License

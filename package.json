@@ -1,0 +1,19 @@
+{
+  "name": "vim-extension-name",
+  "version": "1.0.0",
+  "description": "A Vim extension written in CoffeeScript",
+  "main": "plugin/extension.js",
+  "scripts": {
+    "build": "coffee -c plugin/*.coffee autoload/*.coffee",
+    "watch": "coffee -cw plugin/*.coffee autoload/*.coffee",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "vim",
+    "plugin",
+    "coffeescript"
+  ],
+  "devDependencies": {
+    "coffeescript": "^2.7.0"
+  }
+}
